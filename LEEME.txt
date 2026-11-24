@@ -1,0 +1,5 @@
+FINANPRO 360 — RESPALDO LOCAL PREPARADO
+Ejecuta INICIAR.sh (Linux/macOS) o INICIAR.bat (Windows), con Node.js o Python 3 instalado.
+Abre http://localhost:4173/demo/inicio. No usa npm, build ni conexión externa.
+No abras index.html por file://. La demo usa datos ficticios locales y reloj 24/11/2026.
+Los datos reales requieren Supabase online; este build de respaldo no incluye credenciales.
